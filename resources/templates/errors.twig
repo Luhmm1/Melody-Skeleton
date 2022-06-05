@@ -1,0 +1,15 @@
+{% extends "base.twig" %}
+
+{% block title %}{{ code }} Error &bull; Melody{% endblock %}
+
+{% block css %}
+  <link rel="stylesheet" href="{{ asset('errors.css') }}">
+{% endblock %}
+
+{% block body %}
+  <main>
+    <h1>{{ code }} Error</h1>
+
+    <p>{{ message }}</p>
+  </main>
+{% endblock %}

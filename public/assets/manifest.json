@@ -1,0 +1,11 @@
+{
+  "default.css": "/assets/css/default.css",
+  "default.js": "/assets/js/default.js",
+  "errors.css": "/assets/css/errors.css",
+  "errors.js": "/assets/js/errors.js",
+  "img/logo-512x512.png": "/assets/img/cd98253e743e84d8e548.png",
+  "img/logo-256x256.png": "/assets/img/d9241593bfcb1d72eb70.png",
+  "img/logo-128x128.png": "/assets/img/765dbb7e959b1a7190ed.png",
+  "img/logo-64x64.png": "/assets/img/48b8a7e3e67104cf3fd8.png",
+  "img/logo-32x32.png": "/assets/img/1245f76f91237d0375d6.png"
+}

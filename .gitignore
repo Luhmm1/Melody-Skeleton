@@ -1,0 +1,22 @@
+# Composer
+/vendor/
+
+# JetBrains
+/.idea/
+
+# npm
+/node_modules/
+
+# PHPCS
+/phpcs.xml
+
+# PHPStan
+/phpstan.neon
+
+# PHPUnit
+/.phpunit.cache/
+/phpunit.xml
+
+# Other paths
+/.env
+/public/assets/*/*.LICENSE.txt

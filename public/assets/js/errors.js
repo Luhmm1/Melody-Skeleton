@@ -1,0 +1,1 @@
+(()=>{"use strict";var p={p:"/assets/"};p.p,p.p,p.p,p.p,p.p})();

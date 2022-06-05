@@ -1,0 +1,8 @@
+parameters:
+  level: max
+  paths:
+    - public
+    - src
+    - tests
+  doctrine:
+    ormRepositoryClass: App\Database\Repositories

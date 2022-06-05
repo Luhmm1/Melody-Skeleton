@@ -1,0 +1,19 @@
+{% extends "base.twig" %}
+
+{% block title %}Melody &bull; A lightweight and modular micro-framework{% endblock %}
+
+{% block css %}
+  <link rel="stylesheet" href="{{ asset('default.css') }}">
+{% endblock %}
+
+{% block js %}
+  <script src="{{ asset('default.js') }}" async></script>
+{% endblock %}
+
+{% block body %}
+  <main>
+    <h1>Hello {% if name %}{{ name }}{% else %}World{% endif %}!</h1>
+
+    <p>Enjoy your new Melody installation!</p>
+  </main>
+{% endblock %}
